@@ -1,2 +1,2 @@
 language: csharp
-solution: Artsy Stuff.sln
+solution: "Artsy Stuff.sln"
